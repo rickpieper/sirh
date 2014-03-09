@@ -2,8 +2,8 @@ sirh
 ====
 
 This is a work for a college where our class must develop a Human Resources system, and since we're from Brazil, 
-you might see portuguese code and comments. There will be 8 people working in this project, and only 2 of them know 
-how to program in C# (We'll use ASP.NET Webforms) and 6 will be learning how to. Each person will be responsible of something
+you might see portuguese code and comments. There will be 12 people working in this project, and only 2 of them know 
+how to program in C# (We'll use ASP.NET Webforms) and 6 will be learning how to. (8 people will program,the others will do something else, equally important). Each person will be responsible of something
 in the system, and there will be people who won't program at all, they'll prepare the documentation, test, 
 and manage the project.
 
