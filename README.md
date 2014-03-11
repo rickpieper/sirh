@@ -16,28 +16,28 @@ The complete team is:
 
 Team 1: Recruitment & Selection
 -------
-Jonathan Radieske -> Developer
+ - Jonathan Radieske : Developer
 
-Janaína Bolzan -> Tester, Writer
+ - Janaína Bolzan : Tester, Writer
 
-Gustavo Kerhwald -> Developer 
+ - Gustavo Kerhwald : Developer 
 
 Team 2: Training & Development
 -------
-Ricardo Pieper(me) -> Developer, C# Teacher, Infrastructure & Developing Coordinator
+ - Ricardo Pieper(me) : Developer, C# Teacher, Infrastructure & Developing Coordinator
 
-Jean Piccinini -> Developer
+ - Jean Piccinini : Developer
 
-Paulo Griesang -> Group Manager, Writer  
+ - Paulo Griesang : Group Manager, Writer  
 
 
 Team 3: Posts, Salaries & Benefits:
 ------
-Paulo Trennepohl -> Developer, Infrastructure
+ - Paulo Trennepohl : Developer
 
-Fernando Chitolina -> Developer
+ - Fernando Chitolina : Developer
 
-Camila Wolfer -> Main Writer, Tester
+ - Camila Wolfer : Main Writer, Tester
 
 
 Team 4: Functional Form
