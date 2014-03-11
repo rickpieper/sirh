@@ -42,9 +42,9 @@ Team 3: Posts, Salaries & Benefits:
 
 Team 4: Functional Form
 ------
-Gustavo Zimpel -> Database Administrator, Developer and the guy who is kind of leading the project.
+ - Gustavo Zimpel : Database Administrator, Developer and the guy who is kind of leading the project.
 
-Sandro dos Sandos -> Developer and Project Manager
+ - Sandro dos Sando : Developer and Project Manager
 
-Andreia Barth -> Tester and Writer
+ - Andreia Barth : Tester and Writer
 
