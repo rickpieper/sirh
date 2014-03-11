@@ -28,7 +28,7 @@ Team 2: Training & Development
 
  - Jean Piccinini : Developer
 
- - Paulo Griesang : Group Manager, Writer  
+ - Paulo Griesang : Writer, Tester 
 
 
 Team 3: Posts, Salaries & Benefits:
